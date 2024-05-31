@@ -1,0 +1,13 @@
+streamlit==1.17.0
+torch
+pillow
+numpy
+scikit-image
+git+https://github.com/sberbank-ai/Real-ESRGAN.git
+opencv-python
+diffusers==0.28.0 
+transformers 
+accelerate==0.30.1
+scipy 
+safetensors
+protobuf==3.9.2
