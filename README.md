@@ -2,6 +2,34 @@
 ## Diffusion and GAN-based Image Upscaling Techniques
 
 This repository hosts a dynamic image upscaling application built with Streamlit, leveraging multiple advanced upscaling models. Users can upload an image, select their preferred model, and receive an upscaled version along with performance metrics like execution time and mean squared error (MSE). The application features a user-friendly interface, making it accessible for both experts and novices. 
+
+
+![Pipeline](https://drive.google.com/uc?export=view&id=1NPAoHDN_dG98uZnJ97mNBoX_TekB3kWW)
+
+## Installation
+
+1. Clone the Repository:
+
+```bash
+git clone https://github.com/Mercity-AI/Image-Upscaling-Benchmark.git
+cd Image-Upscaling-Benchmark
+```
+
+2. Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the Streamlit App
+
+```bash
+streamlit run streamlit_app.py
+```
+
+Open your web browser and go to http://localhost:8501.
+
+
 ## Overview
 
 
@@ -258,12 +286,9 @@ The output directory and file paths are constructed dynamically based on the mod
 If the enable_write parameter is set to True, the function saves the upscaled image to the specified output directory using the save_image function. 
 
 
-## Diagram
-
-![Pipeline](https://drive.google.com/uc?export=view&id=1NPAoHDN_dG98uZnJ97mNBoX_TekB3kWW)
-
 ## Screenshots
 
+![Downscale Image Pipeline](https://drive.google.com/uc?export=view&id=1_dseucOIOvcR9HFCvQ-yx7p-T6mWwK6o)
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1wSw04fnGOu0AfVEfZWiaBqkQDBouP7Ux)
 
 
