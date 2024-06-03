@@ -260,12 +260,7 @@ If the enable_write parameter is set to True, the function saves the upscaled im
 
 ## Diagram
 
-![Pipeline](https://drive.google.com/uc?export=view&id=1HgPQ49_tNEc6bVwMbVOUhjgnibyxNYdR)
-
-
-## Demo Video Link
-https://drive.google.com/file/d/1Qal_Ay1upAdsmfRzJds8KezvbQTFNr2v/preview
-
+![Pipeline](https://drive.google.com/uc?export=view&id=1NPAoHDN_dG98uZnJ97mNBoX_TekB3kWW)
 
 ## Screenshots
 
@@ -280,8 +275,12 @@ request for any improvements or suggestions.
 ## References
 
 https://arxiv.org/html/2405.17261v1
+
 https://huggingface.co/stabilityai/stable-diffusion-x4-upscaler
+
 https://huggingface.co/ai-forever/Real-ESRGAN/blame/a86fc6182b4650b4459cb1ddcb0a0d1ec86bf3b0/RealESRGAN_x4.pth
+
+
 
 
 ## To know more about it visit our page - https://www.mercity.ai/blog
