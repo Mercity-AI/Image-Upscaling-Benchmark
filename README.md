@@ -3,6 +3,7 @@
 
 This repository hosts a dynamic image upscaling application built with Streamlit, leveraging multiple advanced upscaling models. Users can upload an image, select their preferred model, and receive an upscaled version along with performance metrics like execution time and mean squared error (MSE). The application features a user-friendly interface, making it accessible for both experts and novices. 
 
+**Read our comprehensive study on image upscaling methods and how to pick the best one** - www.mercity.ai/blog-post/comparing-diffusion-and-gan-imgae-upscaling-techniques
 
 ![Pipeline](https://drive.google.com/uc?export=view&id=1NPAoHDN_dG98uZnJ97mNBoX_TekB3kWW)
 
@@ -305,8 +306,4 @@ https://huggingface.co/stabilityai/stable-diffusion-x4-upscaler
 
 https://huggingface.co/ai-forever/Real-ESRGAN/blame/a86fc6182b4650b4459cb1ddcb0a0d1ec86bf3b0/RealESRGAN_x4.pth
 
-
-
-
-## To know more about it visit our page - https://www.mercity.ai/blog
 
